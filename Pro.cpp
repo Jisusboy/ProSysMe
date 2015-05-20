@@ -13,3 +13,4 @@ cout<<"Ingrese una Contraseña";cin>>PassWord;
 
 }
 
+inline BorInf () {system ("cls")}
