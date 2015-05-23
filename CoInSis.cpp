@@ -30,17 +30,30 @@ int main(){
    swich ()
    {
       case 1 
-       
+      BorInf () {system ("cls")}
+       cout<<"Ingrese un Nombre de Usuario"<<cin>>char,NomUser;endl;
+       cout<<"Ingrese una Contraseña"<<cin>>char,PassWord;endl;
+       cout<<endl
+       return (sch);
       break;
       case 2 
+      BorInf () {system ("cls")}
+      cout<<"Ingrese su nombre de usuario"<<cin>>%c,NomUser;endl
+      cout<<"Ingrese su contraseña"<<cin>>%c,PassWord;endl
+      cout<<endl
       
+      if {
+            cin>>NomUser == NomUser;     
+            cin>>PassWord == PassWord;
+            ###############
+      }else cin>>NomUser != NomUser;
+            cin>>PassWord != PassWord;
+            cout<<endl;
+            return (0);
       break;
       case 3 
-      
-      break;
-      case 4 
-      
-      break;
+      cout<<endl
       return (0);
+      break;
    }
 }
